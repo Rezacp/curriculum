@@ -1,0 +1,13 @@
+swutch1:32769　F0/1　DP　F0/2　RP
+swutch2:20481　F0/1　RP　F0/2　DP
+swutch3:4097 ルートブリッジ　E0/1　DP　E0/2　DP
+swutch4:8193　E0/1　BP　E0/2　RP
+
+swutch1　F0/1　ルートブリッジの向かいのポートだから
+swutch1　F0/2　ルートブリッジに最も近いポートだから
+swutch2　F0/1　ルートブリッジに最も近いポートだから
+swutch2　F0/2　各コリジョンドメインごとに１つ存在するから
+swutch3　E0/1　ルートブリッジだから
+swutch3　E0/2　ルートブリッジだから
+swutch4　E0/1　DPでもRPでもないため
+swutch4　E0/2　ルートブリッジに最も近いポートだから
