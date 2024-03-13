@@ -1,0 +1,7 @@
+第3章課題
+
+(1)A8 AA AA FF FE AA AA AA
+
+(2)9A 76 54 FF FE 32 10 FE
+
+(3)FA FF FF FF FE FF FF FF
